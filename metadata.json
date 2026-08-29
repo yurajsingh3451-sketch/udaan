@@ -1,0 +1,6 @@
+{
+  "name": "UDAAN — UPSC Coaching Raipur",
+  "description": "Premier UPSC Civil Services Coaching & Integrated Learning Platform in Raipur, Chhattisgarh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
